@@ -1,5 +1,6 @@
 <html>
 <body>
-<hs2>Hello World! Welcome to Nepal</h2>
+<hs2> Welcome to today's session</h2>
+<hs3> Today is Wednesday </h3>
 </body>
 </html>
